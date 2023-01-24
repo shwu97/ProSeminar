@@ -154,6 +154,20 @@ b5 = -1.7923;
 
 
 %% Weight matriecs of NN with Tanh activation function %%
+% ======== NN with 2 hidden layer, each layer has 2 nodes ======== %
+W0 = [0.1896, 0.0858, -0.3649;
+      -0.1541, -0.0734, 0.2962];
+W1 = [-1.5998, 0.8535;
+      -1.0078, 0.6696];
+
+W2 = [-5.6769, -4.3556];
+
+b0 = [-0.9668, -1.1873];
+
+b1 = [-1.1468, 1.1689];
+
+b2 = 0.5409;
+% ======== end ======== %
 
 
 % ======== NN with 2 hidden layer, each layer has 3 nodes ======== %
