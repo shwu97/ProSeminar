@@ -3,4 +3,4 @@ A seminary I am doing in Technical University of Darmstadt. The NN-contriller is
 Findeisen and hie team.
 
 
-Get the newest update in the update.txt document.
+Get the newest update in the update.txt document before conducting new simulation.
