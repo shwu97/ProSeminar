@@ -4,3 +4,4 @@ Update means all the related matrices in Plot script as well as in Weight_Matric
 19:25  Update NN with tanh activation function has 2 hiddenlayer, each layer has 3 nodes.
 19:36  Update NN with tanh activation function has 2 hiddenlayer, each layer has 2 nodes.
 20:02  Add scripts for plotting the change in states over time for each of the two neural networks above.
+20:40  Update NN with tanh activation function has 5 hiddenlayer, each layer has 5 nodes. And the related plotting of the states over time has been uploaded.
