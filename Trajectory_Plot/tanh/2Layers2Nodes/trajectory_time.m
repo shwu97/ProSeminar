@@ -53,11 +53,14 @@ subplot(3,1,1)
 plot(time,ys(:,1),"Color",'r')
 hold on
 plot(time,Data(1,:),"Color",'b')
+legend('NN','MPC');
 subplot(3,1,2)
 plot(time,ys(:,2),"Color",'r')
 hold on
 plot(time,Data(2,:),"Color",'b')
+legend('NN','MPC');
 subplot(3,1,3)
 plot(time,ys(:,3),"Color",'r')
 hold on
 plot(time,Data(3,:),"Color",'b')
+legend('NN','MPC');
