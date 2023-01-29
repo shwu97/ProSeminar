@@ -1,0 +1,2 @@
+29.Jan.2023 update:
+19:25  Update NN with tanh activation function has 2 hiddenlayer, each layer has 3 nodes.
