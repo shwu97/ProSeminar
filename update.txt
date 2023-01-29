@@ -1,3 +1,5 @@
+Update means all the related matrices in each script has have been updated.
+
 29.Jan.2023 update:
 19:25  Update NN with tanh activation function has 2 hiddenlayer, each layer has 3 nodes.
 19:36  Update NN with tanh activation function has 2 hiddenlayer, each layer has 2 nodes.
