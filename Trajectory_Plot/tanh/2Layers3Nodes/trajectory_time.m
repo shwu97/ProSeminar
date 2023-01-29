@@ -85,7 +85,7 @@ hold on
 z10 = [-3];
 z20 = [-3];
 z30 = [3];
-Data = readmatrix("foo_3.csv");
+Data = readmatrix("initial_3.csv");
 initialState=[z10;z20;z30];
 % generate continious-time response
 [ts,ys] = ode45(@(t, z) controlloop(t, z, W0, W1, W2, b0, b1, b2), time, initialState);
