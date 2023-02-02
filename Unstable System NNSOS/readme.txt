@@ -7,4 +7,4 @@ To combine all the inequality constraints according to the PSatz, assembleConstr
 
 The setup of variable, decision variable, Lyapunov candidate function etc. have been defined in NNPsatz.m
 
-Finally, the simulation could be run in the mainNNSOSStability.m
+Once the setup is finished without error, the simulation could be run by calling the solver SeDuMi in the mainNNSOSStability.m to solve the SDP with PSatz.
