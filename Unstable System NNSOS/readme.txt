@@ -5,6 +5,6 @@ In order to approximate the best constraint point of the sector, the IBP-algorit
 
 To combine all the inequality constraints according to the PSatz, assembleConstraints.m has been called.
 
-The setup of variable, decision variable, Lyapunov candidate function etc. have been defined in NNPsatz.m
+The setup of state variable, decision variable, Lyapunov candidate function etc. have been defined in NNPsatz.m
 
 Once the setup is finished without error, the simulation could be run by calling the solver SeDuMi in the mainNNSOSStability.m to solve the SDP with PSatz.
