@@ -1,7 +1,7 @@
 clc; 
 clear all;
-addpath('/Users/shanghengwu/Documents/Optimal_Control/sedumi-master');
-addpath('/Users/shanghengwu/Documents/Optimal_Control/sdpt3-master');
+addpath('/path/sedumi-master');
+addpath('/path/sdpt3-master');
 W0 = [ 0.1476,  0.0387, -0.2907;
        -0.1546, -0.0348,  0.2980;
        -0.1028, -0.0525,  0.1771];
