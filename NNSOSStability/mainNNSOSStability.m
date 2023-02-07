@@ -1,5 +1,5 @@
 clc; clear all;
-addpath('/Users/shanghengwu/Documents/Optimal_Control/sedumi-master');;
+addpath('/Path/sedumi-master');;
 % Input dimension. Value can be 1, 2 or 3
 dim_in = 3; 
 
